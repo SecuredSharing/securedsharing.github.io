@@ -3046,18 +3046,98 @@ section.lazy-placeholder:after {
     padding-top: 1rem;
   }
 }
-.cid-s6Gh3XcdVV {
-  background: #c1c1c1;
-  padding-top: 60px;
-  padding-bottom: 60px;
+.cid-s8cqxncSln {
+  padding-top: 0px;
+  padding-bottom: 15px;
+  background-color: #efefef;
 }
-.cid-s6Gh3XcdVV .video-block {
-  margin: auto;
+.cid-s8cqxncSln .title {
+  padding-bottom: 2.5rem;
 }
-@media (max-width: 768px) {
-  .cid-s6Gh3XcdVV .video-block {
-    width: 100% !important;
+.cid-s8cqxncSln h4 {
+  width: 85%;
+  font-weight: 500;
+  margin-bottom: 0;
+}
+.cid-s8cqxncSln .bottom-line p {
+  color: #767676;
+}
+.cid-s8cqxncSln .card-wrapper {
+  background-color: #ffffff;
+  position: relative;
+  justify-content: unset;
+}
+.cid-s8cqxncSln .card-wrapper .card-box {
+  width: 100%;
+}
+.cid-s8cqxncSln .card-wrapper .card-box .wrapper {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+.cid-s8cqxncSln .card-wrapper .card-box .wrapper .top-line {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.cid-s8cqxncSln .card-wrapper .card-box .wrapper .bottom-line {
+  width: 85%;
+}
+@media (max-width: 767px) {
+  .cid-s8cqxncSln .card-wrapper .card-box .wrapper .bottom-line {
+    width: 100%;
   }
+  .cid-s8cqxncSln .card-wrapper .card-box .wrapper .bottom-line p {
+    text-align: center;
+    margin: 1rem 0 0 0;
+  }
+}
+@media (max-width: 767px) {
+  .cid-s8cqxncSln .card.pb-5 {
+    padding-bottom: 2rem !important;
+  }
+  .cid-s8cqxncSln .wrapper {
+    padding-top: 1rem;
+  }
+}
+.cid-s8crhlyVPG {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background: linear-gradient(45deg, #ffffff, #ffffff);
+}
+@media (min-width: 992px) {
+  .cid-s8crhlyVPG .mbr-figure {
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-s8crhlyVPG .mbr-figure {
+    padding-top: 3rem;
+  }
+}
+.cid-s8crhlyVPG .mbr-section-title {
+  color: #000000;
+}
+.cid-s8cs2RbQ7f {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background: linear-gradient(45deg, #ffffff, #ffffff);
+}
+@media (min-width: 992px) {
+  .cid-s8cs2RbQ7f .mbr-figure {
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-s8cs2RbQ7f .mbr-figure {
+    padding-top: 3rem;
+  }
+}
+.cid-s8cs2RbQ7f .mbr-section-title {
+  color: #000000;
 }
 .cid-s6GLKpFec5 {
   padding-top: 60px;
